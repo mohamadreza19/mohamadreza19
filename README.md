@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @mohamadreza19
-- 👀 I’m interested in php and html,css
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php and html,css
-- 📫 How to reach me ...
+ سلام! من محمد رضا زرآینه هستم
+ توسعه‌دهنده فرانت‌اند | متخصص Angular
+ عاشق TypeScript، Angular، Tailwind و معماری ماژولار
+ تمرکز روی بهینه‌سازی عملکرد، تجربه کاربری و طراحی کامپوننت‌های مقیاس‌پذیر
 
-<!---
-mohamadreza19/mohamadreza19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ مهارت‌های من:
+Angular | TypeScript | RxJS | NgRx
+HTML | CSS | SCSS | Tailwind
+REST API | GraphQL | WebSockets
+Git | GitHub | Docker | CI/CD
+
+
+ ارتباط با من:
++98-992 654 2477 | rezazar.dev@gmail.com 
